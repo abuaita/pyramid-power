@@ -5,7 +5,7 @@
 To run the development server:
 
 ```bash
-git clone https://github.com/abuaita/wolviegames.git
+git clone https://github.com/abuaita/wolvie-games.git
 npm install
 npm run dev
 ```
